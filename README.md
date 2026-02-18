@@ -1,38 +1,82 @@
-![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code-.jpg)
-<h1 align="center">Hi 👋, I'm Fuad Nuri</h1>
-<h3 align="center">A passionate Django full-stack developer from Ethiopia</h3>
+<div align="center">
 
+```
+███████╗██╗   ██╗ █████╗ ██████╗     ███╗   ██╗██╗   ██╗██████╗ ██╗
+██╔════╝██║   ██║██╔══██╗██╔══██╗    ████╗  ██║██║   ██║██╔══██╗██║
+█████╗  ██║   ██║███████║██║  ██║    ██╔██╗ ██║██║   ██║██████╔╝██║
+██╔══╝  ██║   ██║██╔══██║██║  ██║    ██║╚██╗██║██║   ██║██╔══██╗██║
+██║     ╚██████╔╝██║  ██║██████╔╝    ██║ ╚████║╚██████╔╝██║  ██║██║
+╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═════╝     ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
+```
 
-- 💬 Ask me about **Django and Django rest framework**
+### Hi there 👋 — I'm **Fuad Nuri**
+#### Backend Engineer · Full-Stack Developer · Based in 🇪🇹 Ethiopia
 
-- 📫 How to reach me **fuadnuri12@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fuadnuri-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/fuadnuri)
+[![Email](https://img.shields.io/badge/Email-fuadnuri12@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:fuadnuri12@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B251924550319-25D366?style=flat-square&logo=whatsapp)](tel:+251924550319)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  phoe: ☎️+251924550319<br/>
-  linkedin: https://linkedin.com/in/fuadnuri
-</p> 
+</div>
 
-<h3 align="center">Languages and Tools:</h3>
+---
 
-<p align="center" margin="40px"> 	
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </div>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>	
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-</p>
-<h1 align="center">🚉My stat</h1>
+## 🧠 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuadnuri&show_icons=true&locale=en&layout=compact" alt="fuadnuri" /></p>
+I build robust, scalable backend systems and full-stack web applications. My core expertise is in **Python** and **Go**, and I'm fluent across the modern backend ecosystem — from REST APIs to microservices to real-time systems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuadnuri&show_icons=true&locale=en" alt="fuadnuri" /></p>
+- 🔭 Currently building production-grade APIs with **Django REST Framework**, **FastAPI**, and **Golang**
+- 🌐 Comfortable on the frontend with **React** and **Next.js**
+- 💬 Ask me about **Django · DRF · FastAPI · Flask · Go · PostgreSQL · REST APIs**
+- ⚡ I care about clean architecture, performance, and developer experience
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Database & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=fuadnuri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadnuri&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=fuadnuri&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+</div>
